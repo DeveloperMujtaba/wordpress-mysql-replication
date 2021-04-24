@@ -1,0 +1,30 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "siteName": {
+      "value": "testwebsitetitle"
+    },
+    "dnsName": {
+      "value": "testdnswp"
+    },
+    "hostingPlanName": {
+      "value": "testhostingplan"
+    },
+    "vmUserName": {
+      "value": "mujtaba"
+    },
+    "mysqlReplicationPassword": {
+      "value": "NaseemKhan786"
+    },
+    "mysqlRootPassword": {
+      "value": "NaseemKhan786"
+    },
+    "mysqlProbePassword": {
+      "value": "NaseemKhan786"
+    },
+    "adminPasswordOrKey": {
+      "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCfp4uJjc6DXvKvKAX86tl57xiEI9c7VDzOeHzFRL5FyVvzTFXIDNIlnj4gOf8JiI8dOaZ78h0vij5HtifWT31hRtzLd8J7QiGEorIFSV4mq+ZQubdY660WhNuDnd2RS8FLk9jgTNT2w1srYa+c4VNnRUPuXto/jjPe1Du0qviyELCB841AaOn/l4JoQ4z+X2bIVWDbOVHkhyYkeYWRfKAsjG5UDKKgbnwilEQid3FRKuWNgFnwwC6eB61hYG3XYjLHvsJjfAJ4EB7c9Xceg+0x25476gNhpFDu4rK17zDeHdO4A0hBzqAq0FyHwhiLsqjSKzgvvYKP4mDCBmfygJU3 mujtaba@pipeline"
+    }
+  }
+}
